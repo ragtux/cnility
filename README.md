@@ -18,5 +18,3 @@ TODO
 * Replicate original's header and TOC for memoir class
 * Thorough layout error checking (maybe implementing 
 * Digitization of Tondo's C Answer book.
-* Open source the LaTeX (will after finished)
-* Not get in trouble
