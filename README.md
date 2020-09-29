@@ -9,8 +9,8 @@ The typesetting is entirely LaTeX. The advantages of LaTeX is that - if organize
 
 
 <p float="middle">
-<img src="./51QualitySample.png" alt="hmmmmmmmmm" width=500/> 
-<img src="./ReplicaCoverFinal.png" alt="hmmmmmmmmm" width=400/>
+<img src="./51QualitySample.png" alt="hmmmmmmmmm" width=400/> 
+<img src="./ReplicaCoverFinal.png" alt="hmmmmmmmmm" width=300/>
 </p>
 
 Project Goals
