@@ -7,11 +7,11 @@ The impetus for this project was my frustration with the seemingly non-existent 
 
 The typesetting is entirely LaTeX. The advantages of LaTeX is that - if organized well enough - one can easily "rice" a doument. Most of the graphics were done in Inkscape. There are plenty of drawing packages in LaTeX (e.g. TikZ) but I am largely unfamiliar with them. I would love to learn more about LaTeX and include them if anyone can provide good looking working examples.
 
-<img src="./51QualitySample.png"
-  alt="hmmmmmmmmm" align="left" width=500/> 
- 
-<img src="./ReplicaCoverFinal.png"
- 	alt="hmmmmmmmmm" align="right" width=400/>
+
+<p float="middle">
+<img src="./51QualitySample.png" alt="hmmmmmmmmm" width=500/> 
+<img src="./ReplicaCoverFinal.png" alt="hmmmmmmmmm" width=400/>
+</p>
 
 Project Goals
 =====
