@@ -1,19 +1,17 @@
 K&R 2E
 =====
 
-<img src="./ReplicaCoverFinal.png"
- 	alt="hmmmmmmmmm" align="right" width=300/>
-
 Welcome to the unauthorized K&R 2E repository! K&R is an amazing book both in terms of its lasting historical impact
 (it's 50 years old!) and in the timeless quality of its technical writing. It is truly a computer science classic. 
 The impetus for this project was my frustration with the seemingly non-existent good quality (typeset, non-scanned) pdfs available. I had purchased both the first and the second edition of K&R and was looking to buy a good quality (typeset) pdf for digital reference but couldn't find one.
 
 The typesetting is entirely LaTeX. The advantages of LaTeX is that - if organized well enough - one can easily "rice" a doument. Most of the graphics were done in Inkscape. There are plenty of drawing packages in LaTeX (e.g. TikZ) but I am largely unfamiliar with them. I would love to learn more about LaTeX and include them if anyone can provide good looking working examples.
 
-<p align="center">
 <img src="./51QualitySample.png"
-  alt="hmmmmmmmmm" width=500/>  
-</p>
+  alt="hmmmmmmmmm" align="left" width=500/> 
+ 
+<img src="./ReplicaCoverFinal.png"
+ 	alt="hmmmmmmmmm" align="right" width=400/>
 
 Project Goals
 =====
